@@ -30,8 +30,9 @@ This is a simple yet powerful image mirroring processing tool developed using Py
 5. Click the "Rotate Clockwise" or "Rotate Counterclockwise" button to rotate the image
 6. Use the "Horizontal Mirror" or "Vertical Mirror" button to apply the corresponding effect
 ![Image 3](./instructions/3.png)
-7. Click the "Save Image" button to save the processed image locally
-8. To restore the original image, click the "Reset Image" button
+![Image 4](./instructions/4.png)
+8. Click the "Save Image" button to save the processed image locally
+9. To restore the original image, click the "Reset Image" button
 
 ## Notes
 
@@ -73,8 +74,9 @@ This is a simple yet powerful image mirroring processing tool developed using Py
 5. 点击“顺时针旋转”或“逆时针旋转”按钮旋转图像
 6. 使用“水平镜像”或“垂直镜像”按钮应用相应效果
 ![Image 3](./instructions/3.png)
-7. 点击“保存图像”按钮将处理后的图像保存到本地
-8. 要恢复原始图像，请点击“重置图像”按钮
+![Image 4](./instructions/4.png)
+8. 点击“保存图像”按钮将处理后的图像保存到本地
+9. 要恢复原始图像，请点击“重置图像”按钮
 
 ## 注意事项
 
