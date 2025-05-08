@@ -23,13 +23,13 @@ This is a simple yet powerful image mirroring processing tool developed using Py
 1. Install dependencies:
 ```pip install -r requirements.txt```
 2. Double-click to run: `run.bat`, open the program
-![Image 1](./instructions/1.png)
+
 3. Click the "Load Image" button to choose whether to process a single photo or batch process all photos in a folder
-![Image 2](./instructions/2.png)
+
 4. Move the "Brightness", "Contrast", "Saturation", "Color Temperature" sliders to adjust the respective parameters, default value is `1`, adjustment range is `0-2`
 5. Click the "Rotate Clockwise" or "Rotate Counterclockwise" button to rotate the image
 6. Use the "Horizontal Mirror" or "Vertical Mirror" button to apply the corresponding effect
-![Image 3](./instructions/3.png)
+
 ![Image 4](./instructions/4.png)
 8. Click the "Save Image" button to save the processed image locally
 9. To restore the original image, click the "Reset Image" button
@@ -67,13 +67,13 @@ This is a simple yet powerful image mirroring processing tool developed using Py
 1. 安装依赖：
 ```pip install -r requirements.txt```
 2. 双击运行：`run.bat`，打开程序
-![Image 1](./instructions/1.png)
+
 3. 点击“加载图像”按钮，选择处理单张照片或批量处理文件夹中的所有照片
-![Image 2](./instructions/2.png)
+
 4. 移动“亮度”、“对比度”、“饱和度”、“色温”滑块以调整相应参数，默认值为`1`，调整范围为`0-2`
 5. 点击“顺时针旋转”或“逆时针旋转”按钮旋转图像
 6. 使用“水平镜像”或“垂直镜像”按钮应用相应效果
-![Image 3](./instructions/3.png)
+
 ![Image 4](./instructions/4.png)
 8. 点击“保存图像”按钮将处理后的图像保存到本地
 9. 要恢复原始图像，请点击“重置图像”按钮
